@@ -1,0 +1,6 @@
+name = "cloudflare-sde-internship-task"
+type = "javascript"
+account_id = "57b4618d5bb2e398ebcffdc9e1e92418"
+workers_dev = true
+route = ""
+zone_id = ""
